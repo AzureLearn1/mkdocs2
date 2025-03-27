@@ -1,0 +1,15 @@
+site_name: MKDOCS2
+
+theme:
+  name: material
+  features:
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - navigation.indexes
+
+repo_url: https://github.com/AzureLearn1/mkdocs2
+repo_name: mkdocs2
+
+plugins:
+  - search
